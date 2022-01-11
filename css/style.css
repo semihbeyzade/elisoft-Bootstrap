@@ -2,7 +2,7 @@
     background-color: aquamarine !important;
 } */
 .dark-bg{
-    background-image: url(./img/main_bg.jpg);
+    background-image: url(../img/main_bg.jpg);
     background-color: rgba(0, 0, 0, 0.89);
     background-blend-mode: multiply;
     background-size: cover;
