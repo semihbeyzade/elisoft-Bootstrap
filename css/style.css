@@ -64,3 +64,10 @@ section#latest i{
   opacity: 0;
   font-size: 2rem;
 }
+
+.modal-body img{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    
+}
